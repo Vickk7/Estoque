@@ -1,0 +1,48 @@
+[
+    {
+        "data": "2025-03-16 14:04:46",
+        "tipo": "Cadastro",
+        "codigo": "142",
+        "quantidade": 36,
+        "descricao": "Cadastro do produto batom"
+    },
+    {
+        "data": "2025-03-16 14:05:04",
+        "tipo": "Entrada",
+        "codigo": "142",
+        "quantidade": 5,
+        "descricao": "Entrada de 5 unidades de batom"
+    },
+    {
+        "data": "2025-03-16 14:16:14",
+        "tipo": "Cadastro",
+        "codigo": "123",
+        "quantidade": 25,
+        "descricao": "Cadastro do produto bala"
+    },
+    {
+        "data": "2025-03-16 14:16:29",
+        "tipo": "Sa\u00edda",
+        "codigo": "123",
+        "quantidade": 2,
+        "descricao": "Sa\u00edda de 2 unidades de bala"
+    },
+    {
+        "data": "2025-03-16 14:31:34",
+        "tipo": "Cadastro",
+        "codigo": "785",
+        "quantidade": 50
+    },
+    {
+        "data": "2025-03-16 18:27:06",
+        "tipo": "Cadastro",
+        "codigo": "369",
+        "quantidade": 52
+    },
+    {
+        "data": "2025-03-16 18:27:38",
+        "tipo": "Entrada",
+        "codigo": "369",
+        "quantidade": 36
+    }
+]

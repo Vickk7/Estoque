@@ -1,0 +1,32 @@
+{
+    "142": {
+        "nome": "batom",
+        "descricao": "maquiagem",
+        "preco": 20.36,
+        "quantidade": 41,
+        "categoria": "maquiagem",
+        "data_cadastro": "2025-03-16 14:04:46"
+    },
+    "123": {
+        "nome": "bala",
+        "descricao": "doce",
+        "preco": 0.65,
+        "quantidade": 23,
+        "categoria": "doce",
+        "data_cadastro": "2025-03-16 14:16:14"
+    },
+    "785": {
+        "nome": "bon\u00e9",
+        "preco": 36.96,
+        "quantidade": 50,
+        "categoria": "roupa",
+        "data_cadastro": "2025-03-16 14:31:34"
+    },
+    "369": {
+        "nome": "balas",
+        "preco": 0.65,
+        "quantidade": 88,
+        "categoria": "doce",
+        "data_cadastro": "2025-03-16 18:27:06"
+    }
+}
